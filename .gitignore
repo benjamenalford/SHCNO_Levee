@@ -1,4 +1,2 @@
-.vscode/settings.json
-.ipynb_checkpoints/clean_data-checkpoint.ipynb
-output/**
-*.csv
+.vscode/**
+.ipynb_checkpoints/**
